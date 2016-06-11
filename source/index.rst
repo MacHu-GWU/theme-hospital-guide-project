@@ -8,6 +8,7 @@ Table of Content (目录)
 
     Win7花屏解决办法 <Win7花屏解决办法/index.rst>
     不加薪留住员工的方法 <不加薪留住员工的方法/index.rst>
+    主题医院DOS原版进入方法 <主题医院DOS原版进入方法/index.rst>
     主题医院主要房间优化布局 <主题医院主要房间优化布局/index.rst>
     主题医院秘技 <主题医院秘技/index.rst>
     培训原理探求以及快速培训法 <培训原理探求以及快速培训法/index.rst>

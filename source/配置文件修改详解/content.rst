@@ -13,3 +13,5 @@
 .. image:: 06.jpg
 
 .. image:: 07.jpg
+
+.. image:: 08.png
